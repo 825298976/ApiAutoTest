@@ -1,6 +1,7 @@
 ## 说明
-1. 该项目非原创，仅是转载，存档做记录，在原作者基础上做了一些小改动使项目可以正常运行，请参考原作者地址为：
-https://github.com/ChenSen5/api_autotest.
+1. 项目仅做存档学习，
+	- 原作者地址为：https://github.com/ChenSen5/api_autotest
+	- 改进项目地址：https://github.com/ikewang/APIAutoTest
 2. 修改的地方有：
 APITest.java（修改了配置文件获取代码和测试用例文件获取代码，原代码有bug）.
 api-config.xml（修改header参数，改为json，原代码参数有误导致post请求失败）.
